@@ -4,6 +4,7 @@ This example demos two applications with their own sets of routes and deployment
 
 - `app1` contains the "Home Page" (/) route.
 - `app2` contains the "About Page" (/about) route.
+- `app2` contains the "NestedApp" (/about/:id).
 - `app1` also exposes `Navigation` component.
 
 # Running Demo
